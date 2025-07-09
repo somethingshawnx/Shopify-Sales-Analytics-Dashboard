@@ -45,7 +45,7 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 
 ## Dashboard Screenshot
 
-![Screenshot 2025-05-27 225722](https://github.com/user-attachments/assets/1d18eb08-0e12-46f9-b44a-369e2295754f)
+![Screenshot 2025-05-27 225722](https://github.com/somethingshawnx/Shopify-Sales-Analytics-Dashboard/blob/9ae6180b89f4df91efc869387f442ac33a7bc5b5/Shopify%20_Analysis_Dashboard.png)
 
 ## Tools Used
 
@@ -57,6 +57,6 @@ The goal of this project is to analyze Shopify sales data in Power BI to uncover
 This dashboard can be used by:
 
 * Business Analysts to monitor KPIs
-* Operations teams to improve delivery efficiency
+* Operations teams to improve efficiency
 * Marketing teams to understand customer preferences
-* Restaurant partners to track performance and feedback
+* Other partners to track performance and feedback
